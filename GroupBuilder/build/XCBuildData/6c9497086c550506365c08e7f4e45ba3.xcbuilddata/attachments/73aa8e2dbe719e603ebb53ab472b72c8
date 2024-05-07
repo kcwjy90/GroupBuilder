@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_GroupBuilderVersionString[];
+ extern const double Pods_GroupBuilderVersionNumber;
+
+ const unsigned char Pods_GroupBuilderVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_GroupBuilder  PROJECT:Pods-1" "\n";
+ const double Pods_GroupBuilderVersionNumber __attribute__ ((used)) = (double)1.;

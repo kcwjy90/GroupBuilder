@@ -1,0 +1,6 @@
+framework module Pods_GroupBuilder {
+  umbrella header "Pods-GroupBuilder-umbrella.h"
+
+  export *
+  module * { export * }
+}

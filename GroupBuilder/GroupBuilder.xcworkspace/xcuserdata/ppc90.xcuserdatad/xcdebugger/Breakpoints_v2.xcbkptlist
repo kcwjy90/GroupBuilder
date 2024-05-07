@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "322A5469-A129-4541-8D3F-8B03B314C069"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "972F4D7E-25B6-45B9-A6A5-AE4F759792E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroupBuilder/VCs/Login/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "LoginVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "972F4D7E-25B6-45B9-A6A5-AE4F759792E6 - 449a569b5432d95b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroupBuilder.LoginVC.contentView.getter : GroupBuilder.LoginView"
+                  moduleName = "GroupBuilder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ppc90/Documents/GitHub/GroupBuilder/GroupBuilder/GroupBuilder/VCs/Login/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "972F4D7E-25B6-45B9-A6A5-AE4F759792E6 - 7553bc8c036f8943"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroupBuilder.LoginVC.contentView.setter : GroupBuilder.LoginView"
+                  moduleName = "GroupBuilder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ppc90/Documents/GitHub/GroupBuilder/GroupBuilder/GroupBuilder/VCs/Login/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "972F4D7E-25B6-45B9-A6A5-AE4F759792E6 - 8f4785b051966525"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroupBuilder.LoginVC.contentView.modify : GroupBuilder.LoginView"
+                  moduleName = "GroupBuilder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ppc90/Documents/GitHub/GroupBuilder/GroupBuilder/GroupBuilder/VCs/Login/LoginVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15">
+               </Location>
+               <Location
+                  uuid = "972F4D7E-25B6-45B9-A6A5-AE4F759792E6 - d89de25df7f24a2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroupBuilder.LoginVC.contentView.modify : GroupBuilder.LoginView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "GroupBuilder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ppc90/Documents/GitHub/GroupBuilder/GroupBuilder/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B568D61F-17C2-42FF-9AF1-49B56D755639"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroupBuilder/VCs/Login/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "LoginVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4F3ECDC-F913-47FB-8B02-6F49052B4230"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroupBuilder/VCs/Login/LoginView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init?(coder:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4F3ECDC-F913-47FB-8B02-6F49052B4230 - e537669c051e4bb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroupBuilder.LoginView.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GroupBuilder.LoginView&gt;"
+                  moduleName = "GroupBuilder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ppc90/Documents/GitHub/GroupBuilder/GroupBuilder/GroupBuilder/VCs/Login/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "A4F3ECDC-F913-47FB-8B02-6F49052B4230 - 21902b032a2cd8db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GroupBuilder.LoginView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GroupBuilder.LoginView&gt;"
+                  moduleName = "GroupBuilder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ppc90/Documents/GitHub/GroupBuilder/GroupBuilder/GroupBuilder/VCs/Login/LoginView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92475C3E-A157-429F-9F70-A358BFEB1793"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroupBuilder/VCs/Login/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECD26191-CBD0-4C26-AA66-236A6E90E0D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GroupBuilder/VCs/Login/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "loadView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

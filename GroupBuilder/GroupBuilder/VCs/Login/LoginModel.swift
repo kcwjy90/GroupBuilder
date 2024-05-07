@@ -6,6 +6,11 @@
 //
 
 import UIKit
+import FirebaseCore
+import FirebaseAuth
+import CryptoKit
+import AuthenticationServices
+import FirebaseDatabase
 
 class LoginModel: NSObject {
 
