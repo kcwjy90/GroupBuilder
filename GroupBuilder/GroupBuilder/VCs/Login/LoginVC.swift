@@ -17,18 +17,11 @@ class LoginVC: UIViewController {
     
     override func loadView() {
         super.loadView()
-
+        
         view.addSubview(contentView)
         contentView.frame = view.frame
-        contentView.backgroundColor = .blue
-        
+ 
     }
-    
-    override func viewWillAppear(_ animated: Bool) {
-        super.viewWillAppear(animated)
-        
-    }
-
 
 }
 
