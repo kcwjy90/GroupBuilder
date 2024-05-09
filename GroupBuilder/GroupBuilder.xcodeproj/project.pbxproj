@@ -19,6 +19,15 @@
 		48C15CAA2BE1E156002E33D9 /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48C15CA92BE1E156002E33D9 /* LoginModel.swift */; };
 		48C15CAD2BE1E253002E33D9 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 48C15CAC2BE1E253002E33D9 /* FirebaseAuth */; };
 		48C15CAF2BE1E2AD002E33D9 /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = 48C15CAE2BE1E2AD002E33D9 /* FirebaseDatabase */; };
+		48DA2BC12BED8FD7004FCBBD /* ProgressVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BC02BED8FD7004FCBBD /* ProgressVC.swift */; };
+		48DA2BC32BED8FE6004FCBBD /* ProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BC22BED8FE6004FCBBD /* ProgressView.swift */; };
+		48DA2BC52BED8FF5004FCBBD /* ProgressModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BC42BED8FF5004FCBBD /* ProgressModel.swift */; };
+		48DA2BC72BED8FFF004FCBBD /* TodayModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BC62BED8FFF004FCBBD /* TodayModel.swift */; };
+		48DA2BC92BED9012004FCBBD /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BC82BED9012004FCBBD /* TodayView.swift */; };
+		48DA2BCB2BED901E004FCBBD /* TodayVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BCA2BED901E004FCBBD /* TodayVC.swift */; };
+		48DA2BCD2BED9032004FCBBD /* CalendarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BCC2BED9032004FCBBD /* CalendarVC.swift */; };
+		48DA2BCF2BED903F004FCBBD /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BCE2BED903F004FCBBD /* CalendarView.swift */; };
+		48DA2BD12BED904C004FCBBD /* CalendarModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48DA2BD02BED904C004FCBBD /* CalendarModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +42,15 @@
 		48C15C992BE1DCD8002E33D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		48C15CA72BE1E147002E33D9 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		48C15CA92BE1E156002E33D9 /* LoginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginModel.swift; sourceTree = "<group>"; };
+		48DA2BC02BED8FD7004FCBBD /* ProgressVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressVC.swift; sourceTree = "<group>"; };
+		48DA2BC22BED8FE6004FCBBD /* ProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressView.swift; sourceTree = "<group>"; };
+		48DA2BC42BED8FF5004FCBBD /* ProgressModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressModel.swift; sourceTree = "<group>"; };
+		48DA2BC62BED8FFF004FCBBD /* TodayModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayModel.swift; sourceTree = "<group>"; };
+		48DA2BC82BED9012004FCBBD /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+		48DA2BCA2BED901E004FCBBD /* TodayVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayVC.swift; sourceTree = "<group>"; };
+		48DA2BCC2BED9032004FCBBD /* CalendarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarVC.swift; sourceTree = "<group>"; };
+		48DA2BCE2BED903F004FCBBD /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
+		48DA2BD02BED904C004FCBBD /* CalendarModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarModel.swift; sourceTree = "<group>"; };
 		5290625F37DCD99B56C8F15C /* Pods-GroupBuilder.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GroupBuilder.release.xcconfig"; path = "Target Support Files/Pods-GroupBuilder/Pods-GroupBuilder.release.xcconfig"; sourceTree = "<group>"; };
 		E79A4DED5C7BE92D91D5435C /* Pods_GroupBuilder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GroupBuilder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC413C5468F62E246F1E6F17 /* Pods-GroupBuilder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GroupBuilder.debug.xcconfig"; path = "Target Support Files/Pods-GroupBuilder/Pods-GroupBuilder.debug.xcconfig"; sourceTree = "<group>"; };
@@ -104,6 +122,9 @@
 		48C15CA22BE1DD99002E33D9 /* VCs */ = {
 			isa = PBXGroup;
 			children = (
+				48DA2BBF2BED8FB8004FCBBD /* Calendar */,
+				48DA2BBE2BED8FA9004FCBBD /* Today */,
+				48DA2BBD2BED8F89004FCBBD /* Progress */,
 				48C15CA42BE1E0E9002E33D9 /* Login */,
 			);
 			path = VCs;
@@ -112,9 +133,9 @@
 		48C15CA42BE1E0E9002E33D9 /* Login */ = {
 			isa = PBXGroup;
 			children = (
+				487B14652BE9D09C00F0864F /* LoginVC.swift */,
 				48C15CA72BE1E147002E33D9 /* LoginView.swift */,
 				48C15CA92BE1E156002E33D9 /* LoginModel.swift */,
-				487B14652BE9D09C00F0864F /* LoginVC.swift */,
 			);
 			path = Login;
 			sourceTree = "<group>";
@@ -125,6 +146,36 @@
 				E79A4DED5C7BE92D91D5435C /* Pods_GroupBuilder.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		48DA2BBD2BED8F89004FCBBD /* Progress */ = {
+			isa = PBXGroup;
+			children = (
+				48DA2BC02BED8FD7004FCBBD /* ProgressVC.swift */,
+				48DA2BC22BED8FE6004FCBBD /* ProgressView.swift */,
+				48DA2BC42BED8FF5004FCBBD /* ProgressModel.swift */,
+			);
+			path = Progress;
+			sourceTree = "<group>";
+		};
+		48DA2BBE2BED8FA9004FCBBD /* Today */ = {
+			isa = PBXGroup;
+			children = (
+				48DA2BCA2BED901E004FCBBD /* TodayVC.swift */,
+				48DA2BC82BED9012004FCBBD /* TodayView.swift */,
+				48DA2BC62BED8FFF004FCBBD /* TodayModel.swift */,
+			);
+			path = Today;
+			sourceTree = "<group>";
+		};
+		48DA2BBF2BED8FB8004FCBBD /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				48DA2BCC2BED9032004FCBBD /* CalendarVC.swift */,
+				48DA2BCE2BED903F004FCBBD /* CalendarView.swift */,
+				48DA2BD02BED904C004FCBBD /* CalendarModel.swift */,
+			);
+			path = Calendar;
 			sourceTree = "<group>";
 		};
 		C4B252444E5A54FB06AC4193 /* Pods */ = {
@@ -258,11 +309,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				48DA2BC52BED8FF5004FCBBD /* ProgressModel.swift in Sources */,
+				48DA2BD12BED904C004FCBBD /* CalendarModel.swift in Sources */,
 				48C15C902BE1DCD6002E33D9 /* ViewController.swift in Sources */,
 				48C15CAA2BE1E156002E33D9 /* LoginModel.swift in Sources */,
+				48DA2BC72BED8FFF004FCBBD /* TodayModel.swift in Sources */,
+				48DA2BC92BED9012004FCBBD /* TodayView.swift in Sources */,
 				487B14662BE9D09C00F0864F /* LoginVC.swift in Sources */,
+				48DA2BCB2BED901E004FCBBD /* TodayVC.swift in Sources */,
 				48C15C8C2BE1DCD6002E33D9 /* AppDelegate.swift in Sources */,
+				48DA2BCF2BED903F004FCBBD /* CalendarView.swift in Sources */,
 				48C15CA82BE1E147002E33D9 /* LoginView.swift in Sources */,
+				48DA2BC32BED8FE6004FCBBD /* ProgressView.swift in Sources */,
+				48DA2BCD2BED9032004FCBBD /* CalendarVC.swift in Sources */,
+				48DA2BC12BED8FD7004FCBBD /* ProgressVC.swift in Sources */,
 				48C15C8E2BE1DCD6002E33D9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
